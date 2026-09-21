@@ -7,6 +7,10 @@ OpenVPN Manager is a local Windows desktop application for managing
 locations, routers, OpenVPN certificates, server configuration, exports, and
 live connection status. It is published by the unregistered **mb-soft** project.
 
+German illustrated user guide: [PDF](docs/OpenVPN-Manager-Anleitung-DE.pdf) ·
+[Word](docs/OpenVPN-Manager-Anleitung-DE.docx). Includes instructions for adding
+locations and routers later while keeping the existing PKI.
+
 ![OpenVPN Manager main window](docs/screenshots/main-window.png)
 
 ## Features
